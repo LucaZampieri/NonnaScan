@@ -1,3 +1,6 @@
+"""
+Might use https://cloud.google.com/vision/docs/handwriting instead
+"""
 import glob
 import argparse
 import subprocess
