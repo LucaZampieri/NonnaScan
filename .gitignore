@@ -1,3 +1,9 @@
+# Ignore vim swap files
+*.swp
+
+# ignore tmp files 
+**/tmp.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
